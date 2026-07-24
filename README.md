@@ -61,7 +61,7 @@ Completed projects involving Python, SQL, AWS, blockchain concepts, and financia
 📧 gonzalesmarissa198@gmail.com
 
 💼 LinkedIn:
-[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/marissa-gonzales-cs/)
+https://www.linkedin.com/in/marissa-gonzales-cs/
 
 🌐 Portfolio:
 Coming Soon
