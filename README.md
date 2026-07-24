@@ -72,12 +72,5 @@ Completed projects involving Python, SQL, AWS, blockchain concepts, and financia
 💼 LinkedIn:
 https://www.linkedin.com/in/marissa-gonzales-cs/
 
-
-## 📈 GitHub Stats
-
-![Marissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marissagonzales468&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marissagonzales468&layout=compact)
-
 🌐 Portfolio:
 Coming Soon
