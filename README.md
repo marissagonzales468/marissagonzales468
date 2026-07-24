@@ -58,7 +58,7 @@ Completed projects involving Python, SQL, AWS, blockchain concepts, and financia
 
 ## 📫 Connect With Me
 
-📧 yourprofessionalemail@email.com
+📧 gonzalesmarissa198@gmail.com
 
 💼 LinkedIn:
 https://linkedin.com/in/yourlinkedin
