@@ -56,12 +56,28 @@ Completed projects involving Python, SQL, AWS, blockchain concepts, and financia
 
 ---
 
+## 🔨 Currently Working On
+
+- Machine Learning projects
+- Neural Networks
+- Data Science portfolio
+- Software Engineering interview preparation
+
+---
+
 ## 📫 Connect With Me
 
 📧 gonzalesmarissa198@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/marissa-gonzales-cs/
+
+
+## 📈 GitHub Stats
+
+![Marissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marissagonzales468&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marissagonzales468&layout=compact)
 
 🌐 Portfolio:
 Coming Soon
