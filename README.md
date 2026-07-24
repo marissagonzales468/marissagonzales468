@@ -1,9 +1,5 @@
 ## Hi there, I'm Marissa 👋
 
-<!--
-**marissagonzales468/marissagonzales468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 I'm a Computer Science student at San Francisco State University with interests in Software Engineering, Machine Learning, and Data Science.
 
 I enjoy solving real-world problems through technology and continuously expanding my skills through coursework, hackathons, and personal projects. My goal is to build software that is both impactful and accessible while continuing to grow as an engineer.
