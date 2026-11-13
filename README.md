@@ -1,8 +1,6 @@
 ## Hi there, I'm Marissa 👋
 
-I'm a Computer Science student at San Francisco State University with interests in Software Engineering, Machine Learning, and Data Science.
-
-I enjoy solving real-world problems through technology and continuously expanding my skills through coursework, hackathons, and personal projects. My goal is to build software that is both impactful and accessible while continuing to grow as an engineer.
+I'm a Computer Science student at San Francisco State University and Break Through Tech AI/ML Fellow seeking AI/ML research opportunities. I work with Python, machine learning, data analysis, and data visualization.
 
 ---
 
@@ -31,6 +29,9 @@ I enjoy solving real-world problems through technology and continuously expandin
 ---
 
 ## 🚀 Featured Projects
+
+### 📈 WitOmni Customer Intelligence
+Industry-sponsored machine learning project focused on predicting repeat customer purchases.
 
 ### 🏠 HopeHub
 A hackathon project that connects individuals experiencing homelessness with community resources and support services.
