@@ -32,8 +32,8 @@ I'm a Computer Science student at San Francisco State University and Break Throu
 
 ### Fall AI Studio — WitOmni Customer Intelligence
 
-### 📈 [WitOmni Customer Intelligence](https://github.com/Break-Through-Tech/witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing)
-Industry-sponsored Break Through Tech machine learning project focused on predicting repeat customer purchases. I contributed to cleaning approximately 391,000 transactions from 541,909 original records, engineering RFM features for roughly 3,700 customers, and comparing multiple machine learning models. Feature engineering improved XGBoost performance to approximately 0.754 ROC-AUC, while the top 10% of ranked customers showed approximately 95% repeat-purchase behavior.
+### 📈 [View the official project repository](https://github.com/Break-Through-Tech/witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing)
+Industry-sponsored WitOmni project facilitated through Break Through Tech, focused on predicting repeat customer purchases. I contributed to cleaning approximately 391,000 transactions from 541,909 original records, engineering RFM features for roughly 3,700 customers, and comparing multiple machine learning models. Feature engineering improved XGBoost performance to approximately 0.754 ROC-AUC, while the top 10% of ranked customers showed approximately 95% repeat-purchase behavior.
 
 ### 🏠 [HopeHub](https://github.com/marissagonzales468/hopehub-pwa)
 A hackathon project that connects individuals experiencing homelessness with community resources and support services.
