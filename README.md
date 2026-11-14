@@ -12,7 +12,6 @@ I'm a Computer Science student at San Francisco State University and Break Throu
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
 </p>
----
 
 **Libraries & Frameworks**
 - Pandas
