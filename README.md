@@ -1,6 +1,8 @@
 ## Hi there, I'm Marissa 👋
 
-I'm a Computer Science student at San Francisco State University and Break Through Tech AI/ML Fellow seeking AI/ML research opportunities. I work with Python, machine learning, data analysis, and data visualization.
+I'm a Computer Science student at San Francisco State University and Break Through Tech AI/ML Fellow seeking AI/ML research opportunities. I work with Python, machine learning, data analysis, and database modeling.
+
+![GitHub stats for marissagonzales468](https://github-readme-stats.vercel.app/api?username=marissagonzales468&show_icons=true&hide_title=true)
 
 ---
 
