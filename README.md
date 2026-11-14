@@ -30,16 +30,16 @@ I'm a Computer Science student at San Francisco State University and Break Throu
 
 ## 🚀 Featured Projects
 
-### 📈 WitOmni Customer Intelligence [https://github.com/Break-Through-Tech/witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing]
+### 📈 WitOmni Customer Intelligence https://github.com/Break-Through-Tech/witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing
 Industry-sponsored machine learning project focused on predicting repeat customer purchases.
 
-### 🏠 HopeHub [https://github.com/marissagonzales468/hopehub-pwa]
+### 🏠 HopeHub https://github.com/marissagonzales468/hopehub-pwa
 A hackathon project that connects individuals experiencing homelessness with community resources and support services.
 
-### 🤖 Machine Learning Capstone [https://github.com/marissagonzales468/CapStone_ML_Problem_Cornell_26]
+### 🤖 Machine Learning Capstone https://github.com/marissagonzales468/CapStone_ML_Problem_Cornell_26
 Built classification models using Logistic Regression and Neural Networks to predict income using the Adult Census Income dataset. A supervised binary classification project using 32,561 Census records.
 
-### ⚡PolicyPulse [https://github.com/marissagonzales468/PolicyPulse]
+### ⚡PolicyPulse https://github.com/marissagonzales468/PolicyPulse
 
 AI-powered platform that helps users explore public policy using multiple AI models and source citations.
 
@@ -63,6 +63,8 @@ Completed projects involving Python, SQL, AWS, blockchain concepts, and financia
 
 ## 🔨 Currently Working On
 
+- Churning Data
+- Tensorflow projects
 - Machine Learning projects
 - Neural Networks
 - Data Science portfolio
