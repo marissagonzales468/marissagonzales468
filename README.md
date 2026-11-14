@@ -75,7 +75,7 @@ Completed projects involving Python, SQL, AWS, blockchain concepts, and financia
 
 ## 📫 Connect With Me
 
-📧 gonzalesmarissa198@gmail.com
+📧 mgonzales19@sfsu.edu
 
 💼 LinkedIn:
 https://www.linkedin.com/in/marissa-gonzales-cs/
