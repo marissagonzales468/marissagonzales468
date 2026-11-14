@@ -1,6 +1,6 @@
 ## Hi there, I'm Marissa 👋
 
-I'm a Computer Science student at San Francisco State University and Break Through Tech AI/ML Fellow seeking AI/ML research opportunities. I work with Python, machine learning, data analysis, and database modeling.
+I’m a Computer Science student at San Francisco State University and a Break Through Tech AI/ML Fellow seeking AI/ML research opportunities. I work with Python, machine learning, data analysis, and database modeling. I’m passionate about using data and technology to address shared challenges and expand access to technical resources in underserved communities.
 
 ## 💻 Technical Skills
 
